@@ -1,4 +1,3 @@
-Título 
 Actitudes hacia el Estado del bienestar en jóvenes
 
 Descripción 
