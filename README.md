@@ -1,6 +1,7 @@
 Actitudes hacia el Estado del bienestar en jóvenes
 
 Descripción 
+
 Estudio y análisis de las actitudes de la población joven respecto al Estado del bienestar. El proyecto realiza ingestión y limpieza de datos (encuestas, redes sociales u otras fuentes), análisis descriptivo y temporal, modelado de temas y sentimiento, y análisis relacional para identificar patrones, correlaciones y segmentos en las opiniones sobre políticas públicas y bienestar.
 
 Objetivos
